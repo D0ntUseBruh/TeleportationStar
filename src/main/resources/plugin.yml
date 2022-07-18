@@ -1,0 +1,5 @@
+name: TeleportationStar
+version: '${project.version}'
+main: ru.dontusebruh.teleportationstar.Core
+api-version: 1.19
+authors: [ D0ntUseBruh ]
